@@ -1,1 +1,1 @@
-# AnandiSriv.github.io
+https://labinatorsolutions.github.io/medical-symptom-checker/
